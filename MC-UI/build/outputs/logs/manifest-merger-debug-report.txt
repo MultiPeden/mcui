@@ -43,7 +43,7 @@ ADDED from C:\Users\MultiPeden\Downloads\tutorial3\MC-UI\src\main\AndroidManifes
 activity#com.physicaloid.mcui.MCUIActivity
 ADDED from C:\Users\MultiPeden\Downloads\tutorial3\MC-UI\src\main\AndroidManifest.xml:18:9-26:20
 	android:label
-		ADDED from C:\Users\MultiPeden\Downloads\tutorial3\MC-UI\src\main\AndroidManifest.xml:20:13-45
+		ADDED from C:\Users\MultiPeden\Downloads\tutorial3\MC-UI\src\main\AndroidManifest.xml:20:13-34
 	android:name
 		ADDED from C:\Users\MultiPeden\Downloads\tutorial3\MC-UI\src\main\AndroidManifest.xml:19:13-61
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER

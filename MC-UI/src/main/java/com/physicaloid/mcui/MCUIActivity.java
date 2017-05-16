@@ -41,7 +41,7 @@ public class MCUIActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_tutorial3);
+        setContentView(R.layout.activity_mcui);
 
         btOpen  = (Button) findViewById(R.id.btOpen);
         btClose = (Button) findViewById(R.id.btClose);
