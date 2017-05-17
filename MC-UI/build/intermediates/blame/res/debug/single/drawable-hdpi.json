@@ -4,7 +4,19 @@
         "source": "C:\\Users\\MultiPeden\\Downloads\\tutorial3\\MC-UI\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\MultiPeden\\Documents\\GitHub\\tutorial3\\MC-UI\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\MultiPeden\\Documents\\GitHub\\tutorial3\\MC-UI\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\MultiPeden\\Downloads\\tutorial3\\physicaloidTutorial3\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\MultiPeden\\Downloads\\tutorial3\\physicaloidTutorial3\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MultiPeden\\Documents\\GitHub\\mcui\\MC-UI\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\MultiPeden\\Documents\\GitHub\\mcui\\MC-UI\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MultiPeden\\Documents\\GitHub\\mcui\\MC-UI\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_touchpad.png",
+        "source": "C:\\Users\\MultiPeden\\Documents\\GitHub\\mcui\\MC-UI\\src\\main\\res\\drawable-hdpi\\ic_action_touchpad.png"
     }
 ]

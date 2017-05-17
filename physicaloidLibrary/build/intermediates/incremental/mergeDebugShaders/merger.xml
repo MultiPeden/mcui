@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\MultiPeden\Downloads\tutorial3\physicaloidLibrary\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\MultiPeden\Downloads\tutorial3\physicaloidLibrary\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\MultiPeden\Documents\GitHub\mcui\physicaloidLibrary\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\MultiPeden\Documents\GitHub\mcui\physicaloidLibrary\src\debug\shaders"/></dataSet></merger>
