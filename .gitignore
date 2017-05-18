@@ -5,6 +5,7 @@
 /.idea/libraries
 .DS_Store
 /build
-/app/build
+/MC-UI/build
+/physicaloidLibrary/build
 /captures
 .externalNativeBuild
