@@ -17,6 +17,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.physicaloid.mcui.MCUIActivity"
+            android:screenOrientation="portrait"
             android:label="MC-UI" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
