@@ -194,7 +194,7 @@ public class MCUIActivity extends Activity {
         Bitmap newBmp = Bitmap.createBitmap(scaledBitmap);
 
         for (String chr: exploded) {
-            if (chr.equals("9")) {
+            if (chr.equals("9\n")) {
                 // full touch
                 newBmp = drawLine(newBmp, "0", "1");
                 newBmp = drawLine(newBmp, "1", "2");
@@ -218,7 +218,8 @@ public class MCUIActivity extends Activity {
         }
         // rotate and set bitmap
         Bitmap rotatedBitmap = rotateImg(newBmp, 45);
-        imageView.setImageBitmap(rotatedBitmap);
+
+        imageupdate(imageView,  rotatedBitmap);
     }
 
 
@@ -376,6 +377,19 @@ public class MCUIActivity extends Activity {
             @Override
             public void run() {
                 ftv.append(ftext);
+            }
+        });
+    }
+
+
+    Handler m1Handler = new Handler();
+    private void imageupdate(ImageView iv, Bitmap bitmap) {
+        final ImageView fiv = iv;
+        final Bitmap fbitmap = bitmap;
+        mHandler.post(new Runnable() {
+            @Override
+            public void run() {
+                fiv.setImageBitmap(fbitmap);
             }
         });
     }
